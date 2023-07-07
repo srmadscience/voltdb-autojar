@@ -35,3 +35,12 @@ to each of them:
     2019-06-29 17:17:48:Calling @UpdateClasses to load JAR file containing procedures
     2019-06-29 17:17:48:com.test classes loaded...
     2019-06-29 17:17:48:Deleted /var/folders/_q/72x6g98n181_hgnl52h3bbfm0000gn/T/AutoJar3443781839225915372.jar
+    
+    
+   Examples of it in use are here:
+   
+   https://github.com/srmadscience/voltdb-javacache/blob/main/serverSrc/jsr107/Invoke.java
+   
+   And here:
+   
+   https://github.com/srmadscience/voltdb-javacache/blob/main/src/org/voltdb/jsr107/VoltDBCache.java#L107
